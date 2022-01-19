@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "232481530476",
+    "project_id": "classwork-558de",
+    "storage_bucket": "classwork-558de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232481530476:android:186f4091d770f78756ee49",
+        "android_client_info": {
+          "package_name": "com.example.davalebamesame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232481530476-gmuhf3089d8ahs6f3ik892c3mccgd1h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbM4WJ2Ys0H5rRFJQovW31OkKzPL-w0d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232481530476-gmuhf3089d8ahs6f3ik892c3mccgd1h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232481530476:android:e02ff486fbda8c5256ee49",
+        "android_client_info": {
+          "package_name": "com.example.davalebasami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232481530476-gmuhf3089d8ahs6f3ik892c3mccgd1h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbM4WJ2Ys0H5rRFJQovW31OkKzPL-w0d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232481530476-gmuhf3089d8ahs6f3ik892c3mccgd1h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
